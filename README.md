@@ -1,7 +1,7 @@
 # orbit-sim
-Simulates the physics of a multi-body celestial system
+Simulates the physics of a two-body celestial system
 
-The simulator supports:
+The simulator supports two body systems such as:
 - binary star system
 - single star system (with orbiting planet)
 
